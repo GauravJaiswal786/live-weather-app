@@ -27,8 +27,7 @@ ________________________________________________________________________________
 3. The JSON response is parsed and dynamically updated in the DOM without page reload.
 4. CSS transitions ensure a smooth user experience during data updates.
 _____________________________________________________________________________________________________________________________
-## 👨‍💻 Author
-*Gaurav Jaiswal* Final Year B.Sc. Computer Science Student
+
 
 ## 👨‍💻 Author
 *Gaurav Jaiswal* Final Year B.Sc. Computer Science Student
